@@ -30,3 +30,7 @@ section h4:nth-child(4){
     justify-content: center;
     border-right: 1px solid white;
 }
+
+.container{
+    gap: 1.5rem;
+}
